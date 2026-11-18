@@ -9,7 +9,7 @@ products:
 urlFragment: sysvad-virtual-audio-device-driver-sample
 ---
 
-English | [日本語](README.ja.md)
+English | [日本語](README.ja.md) | [中文](README.zh.md)
 
 # SysVAD Virtual Audio Device Driver Sample
 
